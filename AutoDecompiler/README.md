@@ -1,4 +1,4 @@
-#Usaga
+#Usage
 
 First,write the path of dex2jar in the Config.py like:
 
@@ -13,3 +13,7 @@ python ApkParser.py /Users/kangzhe/python/test.apk
 ```
 
 Finally,you will see the result in output directory.
+
+#aaa
+
+aaaaa
