@@ -1,4 +1,4 @@
-#Usage
+#Usaga
 
 First,write the path of dex2jar in the Config.py like:
 
