@@ -13,3 +13,6 @@ python ApkParser.py /Users/kangzhe/python/test.apk
 ```
 
 Finally,you will see the result in output directory.
+
+
+
