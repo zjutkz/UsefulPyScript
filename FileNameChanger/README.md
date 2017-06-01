@@ -16,7 +16,7 @@ python /Users/kangzhe/python/changFileName.py /Users/kangzhe/Desktop/test/ aaa s
 #License
 
 ```
-Copyright 2076 zjutkz
+Copyright 2017 zjutkz
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -30,4 +30,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
